@@ -1,0 +1,11 @@
+flask
+flask-cors
+flask-sqlalchemy
+flask-caching
+flask-limiter
+beautifulsoup4
+requests
+python-dotenv
+gunicorn
+stripe
+itsdangerous
