@@ -9,3 +9,4 @@ python-dotenv
 gunicorn
 stripe
 itsdangerous
+psycopg2-binary
